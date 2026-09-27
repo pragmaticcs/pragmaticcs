@@ -1,10 +1,10 @@
-# Pragmaticcs
+# pragmaticcs
 
 ```txt
 name: Alex
 focus: systems & AI/ML engineering
-interests: building my own agentic intelligence stack
-stack: Python, Go
+interests: building my own local agentic intelligence stack
+languages: Python, Go
 ```
 
 ---
