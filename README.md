@@ -10,7 +10,7 @@ languages: Python, Go
 ---
 
 ### `01 // Systems Engineering`
-- [`trovadb`](https://github.com/pragmaticcs/trovadb) — Custom vector database featuring Vamana graph indexing & persistence designed for RAG applications `[Python]`
+- [`trovadb`](https://github.com/pragmaticcs/trovadb) — Custom vector database featuring Vamana graph indexing & persistence designed for RAG workflows and applications `[Python]`
 - [`cawder`](https://github.com/pragmaticcs/cawder) — Minimal agent harness built for private coding with local models `[Go]`
 - [`blockchain`](https://github.com/pragmaticcs/blockchain) — Bitcoin-like distributed ledger implementation `[Go]`
 - [`interpreter-in-nim`](https://github.com/pragmaticcs/interpreter-in-nim) — Bytecode virtual machine & compiler based on the book "Crafting Interpreters" `[Nim]`
